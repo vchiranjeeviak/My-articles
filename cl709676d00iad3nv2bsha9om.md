@@ -108,7 +108,7 @@ This is how we take user input in run time. We can learn this concept in the int
 
 ## Conclusion
 
-That's it for this one. Next article conditionals and loops in Go.
+That's it for this one. Next article is going to be on conditionals and loops in Go.
 
 Do follow me to see them. Make sure you like and share if you felt this good.
 

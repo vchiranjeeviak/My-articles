@@ -101,7 +101,7 @@ func main() {
 } 
 ```
 
-### switch-case
+### 2. switch-case
 
 I don't want to complicate **switch-case** because it is as simple as a real switch board. We can design a digital switch board just like how we have a unique switch for fan, light, bulb etc..
 

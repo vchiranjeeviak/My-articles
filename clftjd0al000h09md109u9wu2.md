@@ -5,7 +5,7 @@ seoDescription: "An introduction to rust programming with the simplest hello wor
 datePublished: Wed Mar 29 2023 10:20:19 GMT+0000 (Coordinated Universal Time)
 cuid: clftjd0al000h09md109u9wu2
 slug: simplest-hello-world-ever-in-rust
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680085106542/cae99917-2343-429b-872a-7a46e7803a6a.webp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680091492079/20564bdf-4c84-4dc9-94f6-34be48cb82ca.png
 tags: programming-blogs, rust, hello-world, rust-solana-web3, rust-lang
 
 ---
